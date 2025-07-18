@@ -32,7 +32,7 @@ You can explore the platform using these **pre-configured demo accounts**:
 | Role               | Email                 | Password    |
 |--------------------|------------------------|-------------|
 | 🛡️ System Admin     | `admin@gmail.com`       | `12345678`  |
-| 🏥 Hospital Admin   | `kebed@gmail.com`       | `12345678`  |
+| 🏥 Hospital Admin   | `kebede@gmail.com`       | `12345678`  |
 | 👩‍⚕️ Doctor          | `selam@gmail.com`       | `12345678`  |
 | 🔬 Lab Technician   | `dagim@gmail.com`       | `12345678`  |
 | 🧾 Receptionist     | `mahider@gmail.com`     | `12345678`  |
