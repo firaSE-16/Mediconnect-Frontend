@@ -2,7 +2,7 @@
 
 🔗 **Live Demo:** [Visit MediConnect](https://medi-front.vercel.app)
 
-![App Screenshot]([<PLACEHOLDER_FOR_DASHBOARD_IMAGE>](https://github.com/user-attachments/assets/7c4d0bbe-8af0-4aae-b6f7-1cd3cbfe677c))
+![App Screenshot]((https://github.com/user-attachments/assets/7c4d0bbe-8af0-4aae-b6f7-1cd3cbfe677c))
 > *(Replace the placeholder with your dashboard screenshot)*
 
 ---
