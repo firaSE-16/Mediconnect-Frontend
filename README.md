@@ -91,7 +91,7 @@ This system handles end-to-end operations, including patient registration, triag
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/mediconnect
+git clone https://github.com/firaSE-16/mediconnect-
 
 # Navigate into the folder
 cd medi-connect
