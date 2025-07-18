@@ -86,14 +86,28 @@ You can explore the platform using these **pre-configured demo accounts**:
 
 ## 🖼️ Screenshots
 
-### 🔷 Admin Dashboard
-![Dashboard Screenshot](<PLACEHOLDER_FOR_DASHBOARD_IMAGE>)
+## 🛠️ Admin Panel
+
+The admin can manage doctors, patients, labs, and oversee the overall platform functionality.
+
+![Admin Dashboard](https://github.com/user-attachments/assets/3451e904-684a-43b2-a1f0-1eac6bfa75d2)
+
+![Admin](https://github.com/user-attachments/assets/58ec2fa5-f75f-4ce5-9905-25a9101810e2)
+
+![Admin](https://github.com/user-attachments/assets/8fa6f4d2-9876-42b9-a5f1-da3eaa013e0d)
+
+![Admin](https://github.com/user-attachments/assets/0beaf380-7ccf-4e39-8bce-24fa5a4dcb91)
+
 
 ### 🔶 Doctor Panel
-![Doctor Panel Screenshot](<PLACEHOLDER_FOR_DOCTOR_PANEL_IMAGE>)
+![Doctor Panel 1](https://github.com/user-attachments/assets/ca4697ec-82b2-44d6-b64e-012b75416b7f)
+![Doctor Panel 2](https://github.com/user-attachments/assets/0b70c389-0bb8-420e-ba33-ebf2c36dba15)
+![Doctor Panel 3](https://github.com/user-attachments/assets/3199bc1e-184e-4b9e-b58a-6722dc840792)
+![Doctor Panel 4](https://github.com/user-attachments/assets/5d28f4fa-a756-4fa8-bdbf-e3da6719e9e1)
+
 
 ### 🔷 PDF Record View
-![PDF Screenshot](<PLACEHOLDER_FOR_PDF_IMAGE>)
+![PDF Screenshot](https://github.com/user-attachments/assets/b5997b06-0434-453e-be0d-6f06f05b4212)
 
 ---
 
